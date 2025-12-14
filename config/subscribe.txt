@@ -1,7 +1,7 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://tmxk.pp.ua/iptv-cn.m3u   
+https://tmxk.pp.ua/iptv-cn.m3u 
 https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/iptv.txt
 https://bxtv.3a.ink/live.txt
 https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/combined-playlist.m3u
