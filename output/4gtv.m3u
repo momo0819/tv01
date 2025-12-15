@@ -1,0 +1,319 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="綜合",民視第一台
+
+#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_mobile.png" group-title="綜合",民視台灣台
+
+#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png" group-title="綜合",民視
+
+#EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv007_mobile.png" group-title="綜合",大愛電視
+
+#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="綜合",中視
+
+#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv080_mobile.png" group-title="綜合",中視經典台
+
+#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv041_mobile.png" group-title="綜合",華視
+
+#EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live207_mobile.png" group-title="綜合",三立綜合台
+
+#EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv043_mobile.png" group-title="綜合",客家電視台
+
+#EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv064_mobile.png" group-title="綜合",中視菁采台
+
+#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live086_mobile.png" group-title="綜合",TVBS精采台
+
+#EXTINF:-1 tvg-id="新唐人亞太台" tvg-name="新唐人亞太台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live050_mobile.png" group-title="綜合",新唐人亞太台
+
+#EXTINF:-1 tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv079_1_mobile.png" group-title="綜合",ARIRANG阿里郎頻道
+
+#EXTINF:-1 tvg-id="原住民族電視台" tvg-name="原住民族電視台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live014_mobile.png" group-title="綜合",原住民族電視台
+
+#EXTINF:-1 tvg-id="東森購物四台" tvg-name="東森購物四台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png" group-title="綜合",東森購物四台
+
+#EXTINF:-1 tvg-id="LiveABC互動英語頻道" tvg-name="LiveABC互動英語頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live030_mobile.png" group-title="兒童與青少年",LiveABC互動英語頻道
+
+#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn20_mobile.png" group-title="兒童與青少年",ELTV生活英語台
+
+#EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live107.png" group-title="兒童與青少年",MOMO親子台
+
+#EXTINF:-1 tvg-id="東森購物一台" tvg-name="東森購物一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png" group-title="綜合",東森購物一台
+
+#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv075_mobile.png" group-title="新聞財經",鏡電視新聞台
+
+#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv14_mobile.png" group-title="新聞財經",東森新聞台
+
+#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv052_mobile.png" group-title="新聞財經",華視新聞
+
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv13_mobile.png" group-title="新聞財經",民視新聞台
+
+#EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live089_mobile.png" group-title="新聞財經",三立新聞iNEWS
+
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv072_mobile.png" group-title="新聞財經",TVBS新聞
+
+#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv019_mobile.png" group-title="新聞財經",東森財經新聞台
+
+#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv074_mobile.png" group-title="新聞財經",中視新聞
+
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv009_mobile.png" group-title="新聞財經",中天新聞台
+
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14_mobile.png" group-title="新聞財經",寰宇新聞台
+
+#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn15_mobile.png" group-title="新聞財經",寰宇新聞台灣台
+
+#EXTINF:-1 tvg-id="SBN全球財經台" tvg-name="SBN全球財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live060_mobile.png" group-title="新聞財經",SBN全球財經台
+
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv073_mobile.png" group-title="新聞財經",TVBS
+
+#EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live046_mobile.png" group-title="綜合",東森購物二台
+
+#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv004_mobile.png" group-title="音樂綜藝",民視綜藝台
+
+#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv006_mobile.png" group-title="音樂綜藝",豬哥亮歌廳秀
+
+#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv068_mobile.png" group-title="音樂綜藝",TVBS歡樂台
+
+#EXTINF:-1 tvg-id="韓國娛樂台 KMTV" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv016_mobile.png" group-title="綜合",韓國娛樂台 KMTV
+
+#EXTINF:-1 tvg-id="東森購物三台" tvg-name="東森購物三台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png" group-title="綜合",東森購物三台
+
+#EXTINF:-1 tvg-id="INULTRA" tvg-name="INULTRA" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_INULTRA_mobile.png" group-title="綜合",INULTRA
+
+#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv101_mobile.png" group-title="運動健康生活",智林體育台
+
+#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv014_mobile.png" group-title="運動健康生活",時尚運動X
+
+#EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live201_mobile.png" group-title="運動健康生活",車迷TV
+
+#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv07_mobile.png" group-title="生活旅遊時尚",民視旅遊台
+
+#EXTINF:-1 tvg-id="滾動力rollor" tvg-name="滾動力rollor" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live012_mobile.png" group-title="生活旅遊時尚",滾動力rollor
+
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn17_mobile.png" group-title="生活旅遊時尚",亞洲旅遊台
+
+#EXTINF:-1 tvg-id="幸福空間居家台" tvg-name="幸福空間居家台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live206_mobile.png" group-title="生活旅遊時尚",幸福空間居家台
+
+#EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live120_mobile.png" group-title="生活旅遊時尚",愛爾達生活旅遊台
+
+#EXTINF:-1 tvg-id="LUXE TV Channel" tvg-name="LUXE TV Channel" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live121_mobile.png" group-title="生活旅遊時尚",LUXE TV Channel
+
+#EXTINF:-1 tvg-id="TV5MONDE STYLE HD 生活時尚" tvg-name="TV5MONDE STYLE HD 生活時尚" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live122_mobile.png" group-title="生活旅遊時尚",TV5MONDE STYLE HD 生活時尚
+
+#EXTINF:-1 tvg-id="MagellanTV頻道 (麥哲倫頻道) " tvg-name="MagellanTV頻道 (麥哲倫頻道) " tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_MGTV_mobile.png" group-title="生活旅遊時尚",MagellanTV頻道 (麥哲倫頻道) 
+
+#EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv042_mobile.png" group-title="戲劇、電影與紀錄片",公視戲劇
+
+#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv09_mobile.png" group-title="戲劇、電影與紀錄片",民視影劇台
+
+#EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live144_mobile.png" group-title="戲劇、電影與紀錄片",金光布袋戲
+
+#EXTINF:-1 tvg-id="GagaOOLala 精選LGBTQ+好劇" tvg-name="GagaOOLala 精選LGBTQ+好劇" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv139_mobile.png" group-title="戲劇、電影與紀錄片",GagaOOLala 精選LGBTQ+好劇
+
+#EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017new_mobile.png" group-title="戲劇、電影與紀錄片",amc電影台
+
+#EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/LOGO-MCE.png" group-title="戲劇、電影與紀錄片",My Cinema Europe HD 我的歐洲電影
+
+#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv17_mobile.png" group-title="綜合",好消息2台
+
+#EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live008_mobile.png" group-title="綜合",人間衛視
+
+#EXTINF:-1 tvg-id="NHK WORLD-JAPAN" tvg-name="NHK WORLD-JAPAN" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live168_mobile.png" group-title="新聞財經",NHK WORLD-JAPAN
+
+#EXTINF:-1 tvg-id="FRANCE24 英文台" tvg-name="FRANCE24 英文台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv_mobile.png" group-title="新聞財經",FRANCE24 英文台
+
+#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv10_mobile.png" group-title="新聞財經",半島國際新聞台
+
+#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv084_mobile_0204.png" group-title="國會頻道",國會頻道1
+
+#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv085_mobile_0204.png" group-title="國會頻道",國會頻道2
+
+#EXTINF:-1 tvg-id="TVBS綜藝台" tvg-name="TVBS綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_TVBS綜藝台_mobile-.png" group-title="綜合",TVBS綜藝台
+
+#EXTINF:-1 tvg-id="TVBS台劇台" tvg-name="TVBS台劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_TVBS台劇台_mobile-.png" group-title="戲劇、電影與紀錄片",TVBS台劇台
+
+#EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live021_mobile.png" group-title="戲劇、電影與紀錄片",經典電影台
+
+#EXTINF:-1 tvg-id="經典卡通台" tvg-name="經典卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live022_mobile.png" group-title="兒童與青少年",經典卡通台
+
+#EXTINF:-1 tvg-id="精選動漫台" tvg-name="精選動漫台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live024_mobile.png" group-title="兒童與青少年",精選動漫台
+
+#EXTINF:-1 tvg-id="戲劇免費看 1台" tvg-name="戲劇免費看 1台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live010_mobile.png" group-title="戲劇、電影與紀錄片",戲劇免費看 1台
+
+#EXTINF:-1 tvg-id="市井豪門" tvg-name="市井豪門" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live001.png" group-title="FastTV飛速看",市井豪門
+
+#EXTINF:-1 tvg-id="中視經典戲劇" tvg-name="中視經典戲劇" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live003.png" group-title="FastTV飛速看",中視經典戲劇
+
+#EXTINF:-1 tvg-id="花系列戲劇" tvg-name="花系列戲劇" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_fast-live004_mobile.png" group-title="FastTV飛速看",花系列戲劇
+
+#EXTINF:-1 tvg-id="華視好劇" tvg-name="華視好劇" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live005.png" group-title="FastTV飛速看",華視好劇
+
+#EXTINF:-1 tvg-id="公視好劇" tvg-name="公視好劇" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live006.png" group-title="FastTV飛速看",公視好劇
+
+#EXTINF:-1 tvg-id="客家好劇" tvg-name="客家好劇" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live007.png" group-title="FastTV飛速看",客家好劇
+
+#EXTINF:-1 tvg-id="懷舊經典電影" tvg-name="懷舊經典電影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live008.png" group-title="FastTV飛速看",懷舊經典電影
+
+#EXTINF:-1 tvg-id="精選華語電影" tvg-name="精選華語電影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live009.png" group-title="FastTV飛速看",精選華語電影
+
+#EXTINF:-1 tvg-id="台灣靈異事件" tvg-name="台灣靈異事件" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-台劇.png" group-title="FastTV飛速看",台灣靈異事件
+
+#EXTINF:-1 tvg-id="新兵日記" tvg-name="新兵日記" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live011.png" group-title="FastTV飛速看",新兵日記
+
+#EXTINF:-1 tvg-id="以家人之名" tvg-name="以家人之名" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live012.png" group-title="FastTV飛速看",以家人之名
+
+#EXTINF:-1 tvg-id="加油喜事" tvg-name="加油喜事" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live013.png" group-title="FastTV飛速看",加油喜事
+
+#EXTINF:-1 tvg-id="去有風的地方" tvg-name="去有風的地方" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live014.png" group-title="FastTV飛速看",去有風的地方
+
+#EXTINF:-1 tvg-id="多情城市" tvg-name="多情城市" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live015.png" group-title="FastTV飛速看",多情城市
+
+#EXTINF:-1 tvg-id="黃金歲月" tvg-name="黃金歲月" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live016.png" group-title="FastTV飛速看",黃金歲月
+
+#EXTINF:-1 tvg-id="花千骨" tvg-name="花千骨" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live017.png" group-title="FastTV飛速看",花千骨
+
+#EXTINF:-1 tvg-id="別打擾我種田" tvg-name="別打擾我種田" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live018.png" group-title="FastTV飛速看",別打擾我種田
+
+#EXTINF:-1 tvg-id="5566偶像劇" tvg-name="5566偶像劇" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live019.png" group-title="FastTV飛速看",5566偶像劇
+
+#EXTINF:-1 tvg-id="不敗愛情偶像劇" tvg-name="不敗愛情偶像劇" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live020.png" group-title="FastTV飛速看",不敗愛情偶像劇
+
+#EXTINF:-1 tvg-id="國外電影精選" tvg-name="國外電影精選" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live021.png" group-title="FastTV飛速看",國外電影精選
+
+#EXTINF:-1 tvg-id="日韓電影大賞" tvg-name="日韓電影大賞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live022.png" group-title="FastTV飛速看",日韓電影大賞
+
+#EXTINF:-1 tvg-id="大愛精選" tvg-name="大愛精選" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live023.png" group-title="FastTV飛速看",大愛精選
+
+#EXTINF:-1 tvg-id="飛龍在天" tvg-name="飛龍在天" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live024.png" group-title="FastTV飛速看",飛龍在天
+
+#EXTINF:-1 tvg-id="台灣傳奇" tvg-name="台灣傳奇" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live026.png" group-title="FastTV飛速看",台灣傳奇
+
+#EXTINF:-1 tvg-id="小資女孩向前衝" tvg-name="小資女孩向前衝" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live027.png" group-title="FastTV飛速看",小資女孩向前衝
+
+#EXTINF:-1 tvg-id="世間路" tvg-name="世間路" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live028.png" group-title="FastTV飛速看",世間路
+
+#EXTINF:-1 tvg-id="恐怖電影" tvg-name="恐怖電影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live029.png" group-title="FastTV飛速看",恐怖電影
+
+#EXTINF:-1 tvg-id="古裝武俠劇" tvg-name="古裝武俠劇" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live030.png" group-title="FastTV飛速看",古裝武俠劇
+
+#EXTINF:-1 tvg-id="以愛為營" tvg-name="以愛為營" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live031.png" group-title="FastTV飛速看",以愛為營
+
+#EXTINF:-1 tvg-id="藍色水玲瓏" tvg-name="藍色水玲瓏" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live032.png" group-title="FastTV飛速看",藍色水玲瓏
+
+#EXTINF:-1 tvg-id="精彩陸劇" tvg-name="精彩陸劇" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live033.png" group-title="FastTV飛速看",精彩陸劇
+
+#EXTINF:-1 tvg-id="包青天" tvg-name="包青天" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live034.png" group-title="FastTV飛速看",包青天
+
+#EXTINF:-1 tvg-id="007情報員" tvg-name="007情報員" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦(007).png" group-title="FastTV飛速看",007情報員
+
+#EXTINF:-1 tvg-id="葉青歌仔戲" tvg-name="葉青歌仔戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-葉青歌仔戲.png" group-title="FastTV飛速看",葉青歌仔戲
+
+#EXTINF:-1 tvg-id="大兵日記" tvg-name="大兵日記" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-台劇.png" group-title="FastTV飛速看",大兵日記
+
+#EXTINF:-1 tvg-id="親戚不計較(特輯)" tvg-name="親戚不計較(特輯)" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-台劇.png" group-title="FastTV飛速看",親戚不計較(特輯)
+
+#EXTINF:-1 tvg-id="日劇一丁目" tvg-name="日劇一丁目" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-日韓劇.png" group-title="FastTV飛速看",日劇一丁目
+
+#EXTINF:-1 tvg-id="武媚娘傳奇" tvg-name="武媚娘傳奇" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-陸劇.png" group-title="FastTV飛速看",武媚娘傳奇
+
+#EXTINF:-1 tvg-id="女力故事館" tvg-name="女力故事館" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live033.png" group-title="FastTV飛速看",女力故事館
+
+#EXTINF:-1 tvg-id="中國傳奇故事" tvg-name="中國傳奇故事" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live033.png" group-title="FastTV飛速看",中國傳奇故事
+
+#EXTINF:-1 tvg-id="天才衝衝衝" tvg-name="天才衝衝衝" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live201.png" group-title="FastTV飛速看",天才衝衝衝
+
+#EXTINF:-1 tvg-id="一字千金" tvg-name="一字千金" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live202.png" group-title="FastTV飛速看",一字千金
+
+#EXTINF:-1 tvg-id="綜藝大集合" tvg-name="綜藝大集合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live203.png" group-title="FastTV飛速看",綜藝大集合
+
+#EXTINF:-1 tvg-id="女人我最大" tvg-name="女人我最大" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live204.png" group-title="FastTV飛速看",女人我最大
+
+#EXTINF:-1 tvg-id="食尚玩家" tvg-name="食尚玩家" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live205.png" group-title="FastTV飛速看",食尚玩家
+
+#EXTINF:-1 tvg-id="11點熱吵店" tvg-name="11點熱吵店" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live206.png" group-title="FastTV飛速看",11點熱吵店
+
+#EXTINF:-1 tvg-id="WTO姐妹會" tvg-name="WTO姐妹會" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live207.png" group-title="FastTV飛速看",WTO姐妹會
+
+#EXTINF:-1 tvg-id="威廉沈歡樂送" tvg-name="威廉沈歡樂送" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live208.png" group-title="FastTV飛速看",威廉沈歡樂送
+
+#EXTINF:-1 tvg-id="全家有智慧" tvg-name="全家有智慧" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live209.png" group-title="FastTV飛速看",全家有智慧
+
+#EXTINF:-1 tvg-id="民視健康美麗生活" tvg-name="民視健康美麗生活" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FASTTV LOGO.png" group-title="FastTV飛速看",民視健康美麗生活
+
+#EXTINF:-1 tvg-id="姊妹亮起來" tvg-name="姊妹亮起來" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live211.png" group-title="FastTV飛速看",姊妹亮起來
+
+#EXTINF:-1 tvg-id="娛樂百分百" tvg-name="娛樂百分百" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live212.png" group-title="FastTV飛速看",娛樂百分百
+
+#EXTINF:-1 tvg-id="超級冰冰Show" tvg-name="超級冰冰Show" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live213.png" group-title="FastTV飛速看",超級冰冰Show
+
+#EXTINF:-1 tvg-id="豬哥會社" tvg-name="豬哥會社" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live214.png" group-title="FastTV飛速看",豬哥會社
+
+#EXTINF:-1 tvg-id="全能歌手" tvg-name="全能歌手" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live216.png" group-title="FastTV飛速看",全能歌手
+
+#EXTINF:-1 tvg-id="鬥陣大廟埕" tvg-name="鬥陣大廟埕" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live218.png" group-title="FastTV飛速看",鬥陣大廟埕
+
+#EXTINF:-1 tvg-id="我的成長" tvg-name="我的成長" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live219.png" group-title="FastTV飛速看",我的成長
+
+#EXTINF:-1 tvg-id="健康2.0" tvg-name="健康2.0" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live220.png" group-title="FastTV飛速看",健康2.0
+
+#EXTINF:-1 tvg-id="輕鬆看法律" tvg-name="輕鬆看法律" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live221.png" group-title="FastTV飛速看",輕鬆看法律
+
+#EXTINF:-1 tvg-id="TVBS看板人物" tvg-name="TVBS看板人物" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live222.png" group-title="FastTV飛速看",TVBS看板人物
+
+#EXTINF:-1 tvg-id="野蠻遊戲：We Play" tvg-name="野蠻遊戲：We Play" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live223.png" group-title="FastTV飛速看",野蠻遊戲：We Play
+
+#EXTINF:-1 tvg-id="最愛韓星" tvg-name="最愛韓星" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live224.png" group-title="FastTV飛速看",最愛韓星
+
+#EXTINF:-1 tvg-id="廚神明星秀" tvg-name="廚神明星秀" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live226.png" group-title="FastTV飛速看",廚神明星秀
+
+#EXTINF:-1 tvg-id="浩克慢遊" tvg-name="浩克慢遊" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live227.png" group-title="FastTV飛速看",浩克慢遊
+
+#EXTINF:-1 tvg-id="環遊世界800天" tvg-name="環遊世界800天" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live228.png" group-title="FastTV飛速看",環遊世界800天
+
+#EXTINF:-1 tvg-id="綜藝新時代" tvg-name="綜藝新時代" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live230.png" group-title="FastTV飛速看",綜藝新時代
+
+#EXTINF:-1 tvg-id="幸福保衛戰" tvg-name="幸福保衛戰" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live231.png" group-title="FastTV飛速看",幸福保衛戰
+
+#EXTINF:-1 tvg-id="同學！搞什麼鬼" tvg-name="同學！搞什麼鬼" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live232.png" group-title="FastTV飛速看",同學！搞什麼鬼
+
+#EXTINF:-1 tvg-id="爸媽囧很大" tvg-name="爸媽囧很大" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live233.png" group-title="FastTV飛速看",爸媽囧很大
+
+#EXTINF:-1 tvg-id="醫學大聯盟" tvg-name="醫學大聯盟" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live234.png" group-title="FastTV飛速看",醫學大聯盟
+
+#EXTINF:-1 tvg-id="GoGoTaiwan" tvg-name="GoGoTaiwan" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live235.png" group-title="FastTV飛速看",GoGoTaiwan
+
+#EXTINF:-1 tvg-id="2025雙北世壯運" tvg-name="2025雙北世壯運" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-世壯運.png" group-title="FastTV飛速看",2025雙北世壯運
+
+#EXTINF:-1 tvg-id="一起追韓星" tvg-name="一起追韓星" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live239.png" group-title="FastTV飛速看",一起追韓星
+
+#EXTINF:-1 tvg-id="韓流美食料理秀" tvg-name="韓流美食料理秀" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live240.png" group-title="FastTV飛速看",韓流美食料理秀
+
+#EXTINF:-1 tvg-id="綜藝大贏家" tvg-name="綜藝大贏家" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-熱門綜藝.png" group-title="FastTV飛速看",綜藝大贏家
+
+#EXTINF:-1 tvg-id="台灣No.1棒球精選" tvg-name="台灣No.1棒球精選" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live242.png" group-title="FastTV飛速看",台灣No.1棒球精選
+
+#EXTINF:-1 tvg-id="HahaTai 哈哈台" tvg-name="HahaTai 哈哈台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/哈哈台FASTTV LOGO修.png" group-title="FastTV飛速看",HahaTai 哈哈台
+
+#EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦(金光).png" group-title="FastTV飛速看",金光布袋戲
+
+#EXTINF:-1 tvg-id="超人力霸王《TV版》" tvg-name="超人力霸王《TV版》" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題(超人力霸王TV).png" group-title="FastTV飛速看",超人力霸王《TV版》
+
+#EXTINF:-1 tvg-id="超人力霸王《劇場版》" tvg-name="超人力霸王《劇場版》" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題(超人力霸王).png" group-title="FastTV飛速看",超人力霸王《劇場版》
+
+#EXTINF:-1 tvg-id="哆啦A夢" tvg-name="哆啦A夢" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦(哆拉A夢).png" group-title="FastTV飛速看",哆啦A夢
+
+#EXTINF:-1 tvg-id="經典卡通" tvg-name="經典卡通" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-經典卡通.png" group-title="FastTV飛速看",經典卡通
+
+#EXTINF:-1 tvg-id="免費精選動畫" tvg-name="免費精選動畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-動漫.png" group-title="FastTV飛速看",免費精選動畫
+
+#EXTINF:-1 tvg-id="經典迪士尼" tvg-name="經典迪士尼" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦.png" group-title="FastTV飛速看",經典迪士尼
+
+#EXTINF:-1 tvg-id="Duck TV兒童卡通" tvg-name="Duck TV兒童卡通" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/pngegg.png" group-title="FastTV飛速看",Duck TV兒童卡通
+
+#EXTINF:-1 tvg-id="FOOD超人" tvg-name="FOOD超人" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦.png" group-title="FastTV飛速看",FOOD超人
+
+#EXTINF:-1 tvg-id="小兒子" tvg-name="小兒子" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-兒童卡通.png" group-title="FastTV飛速看",小兒子
+
+#EXTINF:-1 tvg-id="親子一起看" tvg-name="親子一起看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-親子.png" group-title="FastTV飛速看",親子一起看
+
+#EXTINF:-1 tvg-id="怪獸之王" tvg-name="怪獸之王" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦(怪獸).png" group-title="FastTV飛速看",怪獸之王
+
+#EXTINF:-1 tvg-id="東離劍遊紀" tvg-name="東離劍遊紀" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦(PILI).png" group-title="FastTV飛速看",東離劍遊紀
+
