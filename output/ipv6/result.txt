@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-14 18:55:28,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-15 08:09:05,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -182,6 +182,7 @@ CCTV-17,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8
 CCTV-17,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
+CHC影迷电影,https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1%E5%8F%B0
 
 📡卫视频道,#genre#
 广东卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520
@@ -223,6 +224,7 @@ CCTV-17,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 湖南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8
 湖南卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001026/index.m3u8
 湖南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8
+湖南卫视4k,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
 北京卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010143
 北京卫视,http://z.b.bkpcp.top/m.php?id=bjws
 北京卫视,http://j.x.bkpcp.top/jx/BEIJHD
@@ -233,6 +235,7 @@ CCTV-17,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 北京卫视,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226450/index.m3u8
 北京卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226450/index.m3u8
 北京卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227179/index.m3u8
+北京卫视4k,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86%E5%8F%B0
 湖北卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010057
 湖北卫视,http://z.b.bkpcp.top/m.php?id=hubws
 湖北卫视,http://j.x.bkpcp.top/jx/HUBEIHD
@@ -525,6 +528,7 @@ CCTV-17,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 云南卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 
 ☘️港澳频道,#genre#
+凤凰卫视资讯台,https://tvb.go-iptv.ggff.net/stream/tvb/null/master.m3u8?u=admins&p=fa956b808c8f8e3b59be14d7d584761e041a8359d58ba7e1829f12605d76203a
 Bloomberg TV,https://jmp2.uk/INBA5100021WP
 Bloomberg TV,https://jmp2.uk/sam-INBA5100021WP.m3u8
 Bloomberg TV,https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68fafc6e558214386ab7ca3a.m3u8
@@ -535,6 +539,53 @@ Bloomberg TV,https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6598baa010cb8b7793c6b
 Bloomberg TV,https://jmp2.uk/plex-6430aa45fc3be5947780904e-61d73ab0a7b7c7f703418516.m3u8
 Bloomberg TV,https://jmp2.uk/stvp-INBA5100021WP
 Bloomberg TV,https://jmp2.uk/plu-54ff7ba69222cb1c2624c584.m3u8
+東森財經新聞台,https://mao.ffmking888.dpdns.org/?id=5p2x5qOu6LKh57aT5paw6IGe5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+東森財經新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv153
+東森新聞台,https://mao.ffmking888.dpdns.org/?id=5p2x5qOu5paw6IGe5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+東森新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv152
+中天新聞台,https://4gtv.dxjc.pp.ua/of-4gtv-4gtv009/index.m3u8
+中天新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv009
+中天新聞台,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv009/index.m3u8
+中天新聞台,https://mao.ffmking888.dpdns.org/?id=5Lit5aSp5paw6IGe5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+中天新聞台,https://4gtv.dxjc.pp.ua/4gtv-4gtv009/index.m3u8
+中天新聞台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv009
+中天亞洲台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv109
+中天亞洲台,https://4gtv.dxjc.pp.ua/4gtv-4gtv109/index.m3u8
+中天亞洲台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv109
+中視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv074
+中視新聞台,https://4gtv.dxjc.pp.ua/of-4gtv-4gtv074/index.m3u8
+中視新聞台,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv074/index.m3u8
+中視新聞台,https://4gtv.dxjc.pp.ua/4gtv-4gtv074/index.m3u8
+民視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv13
+民視新聞台,https://mao.ffmking888.dpdns.org/?id=5rCR6KaW5paw6IGe5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+民視新聞台,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-ftv13
+非凡新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv010
+寰宇新聞台,https://mao.ffmking888.dpdns.org/?id=5aaw5a6H5paw6IGe5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+寰宇新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn14
+寰宇新聞台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn14
+寰宇新聞台,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn14
+寰宇新聞台灣台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv156
+寰宇新聞台灣台,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv156/index.m3u8
+寰宇新聞台灣台,https://mao.ffmking888.dpdns.org/?id=5aaw5a6H5paw6IGe5Yaw54Gj5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+寰宇新聞台灣台,https://4gtv.dxjc.pp.ua/of-4gtv-4gtv156/index.m3u8
+寰宇新聞台灣台,https://4gtv.dxjc.pp.ua/4gtv-4gtv156/index.m3u8
+寰宇新聞台灣台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv156
+寰宇新聞台灣台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv156
+寰宇財經台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv158
+鏡電視新聞台,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv075/index.m3u8
+鏡電視新聞台,https://mao.ffmking888.dpdns.org/?id=6Yah6Zu76KaW5paw6IGe5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+鏡電視新聞台,https://4gtv.dxjc.pp.ua/4gtv-4gtv075/index.m3u8
+鏡電視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv075
+台視新聞台,https://4gtv.dxjc.pp.ua/4gtv-4gtv051/index.m3u8
+台視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv051
+台視新聞台,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv051/index.m3u8
+台視新聞台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv051
+台視新聞台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv051
+第1商業台,https://4gtv.dxjc.pp.ua/4gtv-4gtv104/index.m3u8
+第1商業台,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv104/index.m3u8
+第1商業台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv104
+第1商業台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv104
+第1商業台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv104
 AXN,https://hilay.tv/l/axn
 DAZN 1,https://hilay.tv/l/dazn1
 DAZN 1,https://maldivesn.net/hilaytv/dazn1
@@ -542,7 +593,34 @@ DAZN 2,https://hilay.tv/l/dazn2
 DAZN 2,https://maldivesn.net/hilaytv/dazn2
 HBO,https://hilay.tv/l/hbo
 HBO,https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
+民視影劇台,https://mao.ffmking888.dpdns.org/?id=5rCR6KaW5b2x5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+民視影劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv09
+民視影劇台,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-ftv09
+靖天電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv061
+靖天電影台,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp6Zu75b2x5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+靖天電影台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv061
+靖天戲劇台,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5oiy5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+靖天戲劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
+靖天戲劇台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv058
+靖洋戲劇台,https://mao.ffmking888.dpdns.org/?id=6Z2W5rSL5oiy5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+靖洋戲劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv045
+靖洋戲劇台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv045
+采昌影劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv049
+采昌影劇台,https://mao.ffmking888.dpdns.org/?id=6YeH5piM5b2x5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+采昌影劇台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv049
+影迷數位電影台,https://mao.ffmking888.dpdns.org/?id=5b2x6La35pW45L2N6Zu75b2x5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+影迷數位電影台,https://4gtv.dxjc.pp.ua/4gtv-4gtv011/index.m3u8
+影迷數位電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv011
+影迷數位電影台,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv011/index.m3u8
+影迷數位電影台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv011
+龍華電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn03
+龍華電影台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn03
 CCTV4-中央衛視,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+ELTV生活英語台,https://4gtv.dxjc.pp.ua/li-litv-longturn20/index.m3u8
+ELTV生活英語台,https://4gtv.dxjc.pp.ua/litv-longturn20/index.m3u8
+ELTV生活英語台,https://4gtv.dxjc.pp.ua/of-litv-longturn20/index.m3u8
+ELTV生活英語台,https://mao.ffmking888.dpdns.org/?id=RUxUVueUnaa0uaiLseiqnuWPsAxx&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+ELTV生活英語台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn20
 Love Nature,https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8
 Love Nature,https://dbrb49pjoymg4.cloudfront.net/10001/99991398/hls/playlist.m3u8?ads.xumo_channelId=99991398&ads._fw_ifa_type=&ads._fw_did=04e6a96f-1dd6-4958-8192-03c09f847612&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=LoveNature&ads.csid=xumo_web_LoveNature_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=1852&ads.xumo_contentName=LoveNature&ads.xumo_providerId=1852&ads.xumo_providerName=LoveNature&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991398&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 Love Nature,https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb.m3u8
@@ -555,8 +633,26 @@ TRACE Urban,https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fc
 TRACE Urban,https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6322658be67cf9cd9011fcda.m3u8
 TRACE Urban,https://jmp2.uk/plex-643054b1fc3be59477853717-6322658be67cf9cd9011fcda.m3u8
 TRACE Urban,https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6322658be67cf9cd9011fcda.m3u8
+TVBS精采台,https://4gtv.dxjc.pp.ua/4gtv-4gtv067/index.m3u8
+TVBS精采台,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv067/index.m3u8
+TVBS精采台,https://mao.ffmking888.dpdns.org/?id=VFZCUaeyvumHhaWPsAxx&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+TVBS精采台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv067
+TVBS精采台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv067
+TVBS台劇台,https://mao.ffmking888.dpdns.org/?id=VFZCUaWPsOWKhaWPsAxx&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+TVBS台劇台,https://4gtv.dxjc.pp.ua/4gtv-live088/index.m3u8
+TVBS綜藝台,https://mao.ffmking888.dpdns.org/?id=VFZCUae2nOiXneWPsAxx&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+TVBS綜藝台,https://4gtv.dxjc.pp.ua/4gtv-live087/index.m3u8
+TVBS歡樂台,https://4gtv.dxjc.pp.ua/4gtv-4gtv068/index.m3u8
+TVBS歡樂台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv068
+TVBS歡樂台,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv068/index.m3u8
+TVBS歡樂台,https://mao.ffmking888.dpdns.org/?id=VFZCUaatoeaoguWPsAxx&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+TVBS歡樂台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv068
+龍華卡通台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn01
+龍華卡通台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn01
 Global Fashion Channel (1080p),https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 Kaloopy TV,https://hilay.tv/l/kaloopy
+英雄联盟,https://live.ottiptv.cc/douyu/288016
+王者荣耀,https://live.ottiptv.cc/douyu/1863767
 
 ☘️国际频道,#genre#
 ABC News Live,https://jmp2.uk/USBC39000171G
