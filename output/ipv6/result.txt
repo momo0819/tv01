@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-15 08:09:05,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-15 11:00:43,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -556,6 +556,8 @@ Bloomberg TV,https://jmp2.uk/plu-54ff7ba69222cb1c2624c584.m3u8
 中視新聞台,https://4gtv.dxjc.pp.ua/of-4gtv-4gtv074/index.m3u8
 中視新聞台,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv074/index.m3u8
 中視新聞台,https://4gtv.dxjc.pp.ua/4gtv-4gtv074/index.m3u8
+TVBS HD,https://4gtv.dxjc.pp.ua/4gtv-4gtv073/index.m3u8?token=tmxk
+TVBS HD,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv073/index.m3u8?token=tmxk
 民視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv13
 民視新聞台,https://mao.ffmking888.dpdns.org/?id=5rCR6KaW5paw6IGe5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 民視新聞台,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-ftv13
@@ -587,6 +589,7 @@ Bloomberg TV,https://jmp2.uk/plu-54ff7ba69222cb1c2624c584.m3u8
 第1商業台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv104
 第1商業台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv104
 AXN,https://hilay.tv/l/axn
+Cinema World,https://4gtv.dxjc.pp.ua/4gtv-live069/index.m3u8?token=tmxk
 DAZN 1,https://hilay.tv/l/dazn1
 DAZN 1,https://maldivesn.net/hilaytv/dazn1
 DAZN 2,https://hilay.tv/l/dazn2
@@ -616,16 +619,26 @@ HBO,https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 龍華電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn03
 龍華電影台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn03
 CCTV4-中央衛視,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+CCTV4-中央衛視,https://smart.pendy.dpdns.org/Smart.php?id=cctv4&token=tmxk
+CCTV4-中央衛視,https://smart.pendy.dpdns.org/Smart.php?id=Cctv4&token=tmxk
 ELTV生活英語台,https://4gtv.dxjc.pp.ua/li-litv-longturn20/index.m3u8
 ELTV生活英語台,https://4gtv.dxjc.pp.ua/litv-longturn20/index.m3u8
 ELTV生活英語台,https://4gtv.dxjc.pp.ua/of-litv-longturn20/index.m3u8
 ELTV生活英語台,https://mao.ffmking888.dpdns.org/?id=RUxUVueUnaa0uaiLseiqnuWPsAxx&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 ELTV生活英語台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn20
+FRANCE24 英文台,https://4gtv.dxjc.pp.ua/4gtv-live146/index.m3u8?token=tmxk
+Global Trekker,https://4gtv.dxjc.pp.ua/4gtv-live112/index.m3u8?token=tmxk
+INULTRA,https://4gtv.dxjc.pp.ua/4gtv-live096/index.m3u8?token=tmxk
 Love Nature,https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8
 Love Nature,https://dbrb49pjoymg4.cloudfront.net/10001/99991398/hls/playlist.m3u8?ads.xumo_channelId=99991398&ads._fw_ifa_type=&ads._fw_did=04e6a96f-1dd6-4958-8192-03c09f847612&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=LoveNature&ads.csid=xumo_web_LoveNature_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=1852&ads.xumo_contentName=LoveNature&ads.xumo_providerId=1852&ads.xumo_providerName=LoveNature&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991398&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 Love Nature,https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb.m3u8
 Nickelodeon,https://hilay.tv/l/nickelodeon
+Nickelodeon,https://4gtv.dxjc.pp.ua/4gtv-live105/index.m3u8?token=tmxk
+ROCK Action,https://4gtv.dxjc.pp.ua/4gtv-live138/index.m3u8?token=tmxk
+ROCK Entertainment,https://4gtv.dxjc.pp.ua/4gtv-live080/index.m3u8?token=tmxk
 TRACE Sport Stars,https://jmp2.uk/IN8000085E
+TRACE Sport Stars,https://4gtv.dxjc.pp.ua/4gtv-4gtv077/index.m3u8?token=tmxk
+TRACE Sport Stars,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv077/index.m3u8?token=tmxk
 TRACE Urban,https://jmp2.uk/IN800007SR
 TRACE Urban,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
 TRACE Urban,https://jmp2.uk/str-6426.m3u8
@@ -633,11 +646,15 @@ TRACE Urban,https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fc
 TRACE Urban,https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6322658be67cf9cd9011fcda.m3u8
 TRACE Urban,https://jmp2.uk/plex-643054b1fc3be59477853717-6322658be67cf9cd9011fcda.m3u8
 TRACE Urban,https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6322658be67cf9cd9011fcda.m3u8
+TRACE Urban,https://4gtv.dxjc.pp.ua/4gtv-4gtv082/index.m3u8?token=tmxk
+TRACE Urban,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv082/index.m3u8?token=tmxk
 TVBS精采台,https://4gtv.dxjc.pp.ua/4gtv-4gtv067/index.m3u8
 TVBS精采台,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv067/index.m3u8
 TVBS精采台,https://mao.ffmking888.dpdns.org/?id=VFZCUaeyvumHhaWPsAxx&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 TVBS精采台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv067
 TVBS精采台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv067
+TVBS精采台,https://4gtv.dxjc.pp.ua/4gtv-4gtv067/index.m3u8?token=tmxk
+TVBS精采台,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv067/index.m3u8?token=tmxk
 TVBS台劇台,https://mao.ffmking888.dpdns.org/?id=VFZCUaWPsOWKhaWPsAxx&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 TVBS台劇台,https://4gtv.dxjc.pp.ua/4gtv-live088/index.m3u8
 TVBS綜藝台,https://mao.ffmking888.dpdns.org/?id=VFZCUae2nOiXneWPsAxx&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
