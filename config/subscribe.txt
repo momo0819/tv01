@@ -4,7 +4,7 @@
 https://tmxk.pp.ua/4gtv-cn.m3u
 https://tmxk.pp.ua/iptv-cn.m3u 
 https://tmxk.pp.ua/4gtv-cn.m3u 
-https://raw.githubusercontent.com/momo0819/glacy/refs/heads/main/nn.txt?token=GHSAT0AAAAAADRI4ROOLKS5BJDCVINSYLGA2J7TXIQ
+https://raw.githubusercontent.com/momo0819/Gla-deploy/refs/heads/main/nn.txt
 https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/ipv4.txt
 https://iptv-org.github.io/iptv/index.m3u
 https://raw.githubusercontent.com/a0907607299-creator/4gtv/refs/heads/main/4gtv.m3u
